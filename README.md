@@ -1,13 +1,14 @@
+[TOC]
 
-#我的分享
+# 我的分享
 
-#我的关注
+# 我的关注
 
-##Android6.0 动态权限
+## Android6.0 动态权限
 
-###[Gota](https://github.com/alhazmy13/Gota)
+### [Gota](https://github.com/alhazmy13/Gota)
 
-####安装
+#### 安装
 
 Maven
 
@@ -27,7 +28,7 @@ dependencies {
 }
 ```
 
-####使用
+#### 使用
 
 添加好库之后，创建一个对象，传入权限数组，注册回调函数。
 
