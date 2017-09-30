@@ -1,10 +1,14 @@
+
 [TOC]
 
 #我的分享
 
 #我的关注
+
 ##Android6.0 动态权限
+
 ###[Gota](https://github.com/alhazmy13/Gota)
+
 ####安装
 
 Maven
