@@ -497,49 +497,95 @@ Sqlite 数据库浏览器
 
 ### [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
 
+JavaScript 资源大全中文版
+
 ### [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
+
+Java资源大全中文版
 
 ### [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)
 
+机器学习资源大全中文版
+
 ### [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+
+Python 资源大全中文版
 
 ### [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
 
+iOS资源大全中文版
+
 ### [awesome-programming-books](https://github.com/jobbole/awesome-programming-books)
+
+经典编程书籍大全
 
 ### [ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList)
 
+有了这个列表，程序员不愁没练手的小项目了
+
 ### [awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn)
+
+.Net 资源大全中文版
 
 ### [awesome-design-cn](https://github.com/jobbole/awesome-design-cn)
 
+设计师资源大全
+
 ### [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)
+
+C++ 资源大全中文版
 
 ### [awesome-c-cn](https://github.com/jobbole/awesome-c-cn)
 
+C 语言资源大全中文版
+
 ### [awesome-android-cn](https://github.com/jobbole/awesome-android-cn)
+
+Android 资源大全中文版
 
 ### [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn)
 
+系统管理员资源大全中文版
+
 ### [awesome-php-cn](https://github.com/jobbole/awesome-php-cn)
+
+PHP 资源大全中文版
 
 ### [awesome-python-books](https://github.com/jobbole/awesome-python-books)
 
+Python 资源大全中文版
+
 ### [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn)
+
+MySQL 资源大全中文版
 
 ### [awesome-css-cn](https://github.com/jobbole/awesome-css-cn)
 
+CSS 资源大全中文版
+
 ### [awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books)
+
+前端技术大全中文版
 
 ### [web-skill-set](https://github.com/jobbole/web-skill-set)
 
+前端技能栈 - 前端开发入门、进阶的参考指南
+
 ### [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015)
+
+2015 年在微信热传的 100+ 经典技术文章
 
 ### [awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
 
+Go 资源大全中文版，敬请期待
+
 ### [jquery-tips-everyone-should-know](https://github.com/jobbole/jquery-tips-everyone-should-know)
 
+前端开发者都应知道的 jQuery 小技巧
+
 ### [OptiKeyWiki-ZH](https://github.com/jobbole/OptiKeyWiki-ZH)
+
+OptiKey WiKi 中文版
 
 
 
