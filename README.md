@@ -428,6 +428,13 @@ Realm 是可以直接运行在手机、平板、穿戴设备上的手机数据�
 
 文件管理器
 
+
+### [wally](https://github.com/Musenkishi/wally)
+
+墙纸应用
+
+### [Pedometer](https://github.com/j4velin/Pedometer)
+
 ## 图表库
 
 - [XCL-Charts](https://github.com/xcltapestry/XCL-Charts)
@@ -451,6 +458,93 @@ ZBar 二维码
 - [glide](https://github.com/bumptech/glide)
 
 ## [EventBus](https://github.com/greenrobot/EventBus)
+
+## [okhttp](https://github.com/square/okhttp)
+
+### 安装
+
+>Maven
+
+```
+<dependency>
+  <groupId>com.squareup.okhttp3</groupId>
+  <artifactId>okhttp</artifactId>
+  <version>3.9.0</version>
+</dependency>
+```
+
+>Gradle
+
+```
+compile 'com.squareup.okhttp3:okhttp:3.9.0'
+```
+
+### 混淆配置
+
+```
+-dontwarn okhttp3.**
+-dontwarn okio.**
+-dontwarn javax.annotation.**
+```
+
+## [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)
+
+Sqlite 数据库浏览器
+
+<p><a href="https://github.com/sqlitebrowser/sqlitebrowser/raw/master/images/sqlitebrowser.png" target="_blank"><img src="https://github.com/sqlitebrowser/sqlitebrowser/raw/master/images/sqlitebrowser.png" alt="DB Browser for SQLite Screenshot" title="DB Browser for SQLite Screenshot" style="max-width:100%;"></a></p>
+
+## [伯乐在线](https://github.com/jobbole)
+
+### [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
+
+### [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
+
+### [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)
+
+### [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+
+### [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
+
+### [awesome-programming-books](https://github.com/jobbole/awesome-programming-books)
+
+### [ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList)
+
+### [awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn)
+
+### [awesome-design-cn](https://github.com/jobbole/awesome-design-cn)
+
+### [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)
+
+### [awesome-c-cn](https://github.com/jobbole/awesome-c-cn)
+
+### [awesome-android-cn](https://github.com/jobbole/awesome-android-cn)
+
+### [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn)
+
+### [awesome-php-cn](https://github.com/jobbole/awesome-php-cn)
+
+### [awesome-python-books](https://github.com/jobbole/awesome-python-books)
+
+### [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn)
+
+### [awesome-css-cn](https://github.com/jobbole/awesome-css-cn)
+
+### [awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books)
+
+### [web-skill-set](https://github.com/jobbole/web-skill-set)
+
+### [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015)
+
+### [awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
+
+### [jquery-tips-everyone-should-know](https://github.com/jobbole/jquery-tips-everyone-should-know)
+
+### [OptiKeyWiki-ZH](https://github.com/jobbole/OptiKeyWiki-ZH)
+
+
+
+
+
 
 
 
