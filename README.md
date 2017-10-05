@@ -140,6 +140,57 @@ ImmersionBar.with(this)
 ImmersionBar.with(this).destroy(); //必须调用该方法，防止内存泄漏
 ```
 
+## [NFCCard](https://github.com/sinpolib/nfcard)
+
+NFC读取卡片demo
+
+## 安卓日志工具类
+
+- [XLog](https://github.com/elvishew/xLog)
+
+- [logger](https://github.com/orhanobut/logger)
+
+-  [Klog](https://github.com/ZhaoKaiQiang/KLog)
+
+## [GreenDAO](https://github.com/greenrobot/greenDAO)
+
+GreenDAO 是轻量且快速的将对象关联到到SQLite数据库的Android平台的对象关系映射。
+
+## [Realm-java](https://github.com/realm/realm-java)
+
+Realm 是可以直接运行在手机、平板、穿戴设备上的手机数据库。
+
+## APPDemo 类
+ 
+### [Minimal-Todo](https://github.com/avjinder/Minimal-Todo)
+
+迷你代办事项app。
+
+### [MovieGuide](https://github.com/esoxjem/MovieGuide)
+
+电影向导
+
+### [superCleanMaster](https://github.com/joyoyao/superCleanMaster)
+
+超级清理大师
+
+- 基本功能
+
+    - 内存加速
+    - 缓存清理
+    - 自启管理
+    - 软件管理
+    - 设备信息
+
+- 截图
+
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg" height="400px"/>
+
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/1.jpg" height="400px"/>
+
+
+
+
 
 
 
